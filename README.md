@@ -1,4 +1,4 @@
-# Shoe-Sales-Profitability
+# Sneaker Profitability Prediction
 IEOR 242 Project Proposal Group 2
 By: Adrian Enders, Ameesha Khan, Rahul Ranganathan, Priyanka Ravi, Alamdeep Sethi, .Megha, Hyunjoon Kweon
 
